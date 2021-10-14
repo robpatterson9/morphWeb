@@ -1,6 +1,9 @@
 .App {
   text-align: center;
   background-color:  #000000;
+background-image: url('./bg.jpg');
+
+
 }
 
 .App-logo {
@@ -13,14 +16,44 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-body {
+
+.container {
 
   background: #000000;
-  background-image: './bg.jpg'
 
-  
-  ;
+  min-width: 200vh;
+  min-height: 100vh;
+  background-image: url('./bg.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
 }
+
+.container2 {
+
+  background: #000000;
+
+  min-width: 200vh;
+  min-height: 100vh;
+  background-image: url('./b2.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.container3 {
+
+  background: #000000;
+
+  min-width: 200vh;
+  min-height: 100vh;
+  background-image: url('./b3.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+
 .App-header {
   background-color: #161617;
   min-height: 100vh;
@@ -35,12 +68,12 @@ body {
 .App-link {
   color: #61dafb;
 }
-img {
 
-   margin-top: 0px;
+background-image {
 
-  }
-
+  width: 100vh,
+  height 100vh;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
