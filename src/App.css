@@ -135,12 +135,13 @@ background-image {
   position: absolute;
   top: 90%;
   left: 10%;
+  font-family: 'Source Code Pro', monospace;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   background-color: #555;
   color: white;
-  font-size: 36px;
-  padding: 12px 24px;
+  font-size: 26px;
+  padding: 12px 44px;
   border: none;
   cursor: pointer;
   text-decoration: none;

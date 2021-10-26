@@ -31,7 +31,7 @@ function Home() {
      
    
  <a href="mailto: info@metamorphos.is" target="_blank">
-<button type="button" class="btn btn-primary">Contact</button>
+<button type="button" class="btn btn-secondary btn-sm">CONTACT</button>
 
 
  </a> </div>
