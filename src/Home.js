@@ -8,16 +8,10 @@ function Home() {
   <>
       <div className="container-fluid">
 
-        <img src="./images/1.jpg" alt="1" />
+         <img src="./images/front.png" alt="Metamorphosis" />
 
       </div>
-      
-      <div className="container-fluid">
-
-          <img src="./images/front.jpg" alt="Metamorphosis" />
-         </div>
-
-       
+     
 
 
 
