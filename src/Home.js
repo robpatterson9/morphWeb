@@ -8,12 +8,10 @@ function Home() {
   <>
       <div className="container-fluid">
 
-         <img src="./images/front.png" alt="Metamorphosis" />
+        <img src="./images/front.png" alt="Metamorphosis" />
 
       </div>
-     
-
-
+    
 
 </>
 
