@@ -1,16 +1,13 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import Home from './Home'
-import bg from './bg.jpg';
-import { Container } from 'react-bootstrap';
+// import bg from './bg.jpg';
+
 
 function App() {
   return (
 
-  
- <Home />
-
-
+  <Home />
 
 
 

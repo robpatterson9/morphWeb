@@ -7,21 +7,6 @@ import React, { useState } from "react";
 import styled from "styled-components";
 
 
-const Button = styled.button`
-  background-color: #000;
-
-  color: white;
-  padding: 15px 15px;
-  border-radius: 5px;
-  outline: 0;
-  text-transform: uppercase;
-  
-
-  cursor: pointer;
-  
- 
-  }
-`;
 function Home() {
     return (
   <>
@@ -29,7 +14,7 @@ function Home() {
 
         <img src={mlogo} />
      
-   
+      
  <a href="mailto: info@metamorphos.is" target="_blank">
 <button type="button" class="btn btn-secondary btn-sm">CONTACT</button>
 
